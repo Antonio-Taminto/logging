@@ -1,0 +1,10 @@
+spring:
+  output.ansi.enabled: ALWAYS
+logging:
+  file.path: myCustomLog
+  level:
+    root: INFO
+    services: DEBUG
+
+var1: 2
+var2: 8
