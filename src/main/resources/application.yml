@@ -4,7 +4,7 @@ logging:
   file.path: myCustomLog
   level:
     root: INFO
-    services: DEBUG
+    com.logging.demo.services: DEBUG
 
 var1: 2
 var2: 8
